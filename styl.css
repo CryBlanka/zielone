@@ -30,6 +30,7 @@ img {
 .zielone-napisy {
     font-size: 20px;
     color: rgb(0, 0, 0);
+    text-align: center;
     display: block;
     margin: 5px;
     animation: shake 0.5s;
@@ -44,6 +45,7 @@ img {
   width: 80%;
   padding: 5px 14px;
   display: flex;
+  text-align: center;
   align-items: center;
   justify-content: space-between;
   background-color: #eee;
