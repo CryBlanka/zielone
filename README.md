@@ -6,4 +6,4 @@ Projekt bazujący na utworze Paliona o tytule Zielone. Po nacisnięciu zdjęcia 
 __Wszystkie treści w tym utwór "Palion Zielone" należą do jego autorów w razie potrzeby usunięcia treści prosimy pisać na legal@clippsly.org__
 
 
-Markup :  #### Wszelkie Prawa Zastrzeżone © 2022 Clippsly Ltd   ####
+#### Wszelkie Prawa Zastrzeżone © 2022 Clippsly Ltd   ####
